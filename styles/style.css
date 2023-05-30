@@ -106,7 +106,7 @@ body{
 }
 
 .apresentacao__imagem {
-    width: 40%;
+    width: 25%;
 }
 
 .rodape{
@@ -134,7 +134,8 @@ margin-bottom: 5%
 
     .cabecalho {
         padding: 10%;
-        
+        width: auto;
+
     }
 
     .cabecalho__menu{
@@ -145,16 +146,16 @@ margin-bottom: 5%
       
     }
 
-    }
-
     .apresentacao {
         flex-direction: column-reverse;
-
         padding: 5%;
+
+        
     }
 
     .apresentacao__conteudo {
         width: auto;
+        
     }
    
 }
